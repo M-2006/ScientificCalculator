@@ -3,8 +3,6 @@ import javax.swing.border.BevelBorder;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
-import java.io.IOException;
-import javax.imageio.ImageIO;
 
 class Calculator {
 
